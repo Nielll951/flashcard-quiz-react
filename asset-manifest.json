@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flashcard-quiz-react/static/css/main.a7ab5867.css",
+    "main.js": "/flashcard-quiz-react/static/js/main.beb9f9a1.js",
+    "index.html": "/flashcard-quiz-react/index.html",
+    "main.a7ab5867.css.map": "/flashcard-quiz-react/static/css/main.a7ab5867.css.map",
+    "main.beb9f9a1.js.map": "/flashcard-quiz-react/static/js/main.beb9f9a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ab5867.css",
+    "static/js/main.beb9f9a1.js"
+  ]
+}
